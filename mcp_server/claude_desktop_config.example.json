@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rust-mcp-server": {
+      "command": "/full/path/to/mcp_server/target/release/mcp_server",
+      "args": []
+    }
+  }
+}
